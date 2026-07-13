@@ -1,223 +1,144 @@
-# KanishkaaOS v2.0
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Booting+KanishkaaOS...;Initializing+Frontend+Environment...;Welcome+to+KanishkaaOS+v2.0" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Frontend+Developer;Crafting+Modern+Web+Experiences;Turning+Ideas+into+Interactive+Interfaces;Clean+Code+•+Clean+UI+•+Better+UX" alt="Typing SVG" />
 
-# 🖥️ KanishkaaOS
+# Hello there 👋
 
-**Frontend Developer • React • JavaScript**
+### Building modern, responsive and user-friendly web experiences.
+
+<p align="center">
+  <a href="https://kanishkaans.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kanishkaa-n-s">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/KanishkaaNS">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-```text
-╭────────────────────────────────────────────────────────────────────────────╮
-│ ● ● ●                                         KanishkaaOS Terminal         │
-├────────────────────────────────────────────────────────────────────────────┤
-│ Last login: Today from github.com                                          │
-│                                                                            │
-│ Boot sequence...                                                           │
-│                                                                            │
-│ Loading JavaScript......................... [ OK ]                         │
-│ Loading React.............................. [ OK ]                         │
-│ Loading Portfolio.......................... [ OK ]                         │
-│ Loading Projects........................... [ OK ]                         │
-│                                                                            │
-│ System Ready.                                                              │
-│                                                                            │
-│ kanishkaa@github:~$ █                                                      │
-╰────────────────────────────────────────────────────────────────────────────╯
-```
+## 👨‍💻 About Me
 
-## `kanishkaa@github:~$ neofetch`
+I enjoy building modern web applications with a strong focus on clean interfaces, responsive layouts and intuitive user experiences.
 
-```yaml
-User      : Kanishkaa NS
-Role      : Frontend Developer
-Education : Bachelor of Computer Applications
-CGPA      : 9.4
-Location  : India
-Hostname  : github.com/KanishkaaNS
-Portfolio : https://kanishkaans.github.io
-LinkedIn  : https://linkedin.com/in/kanishkaa-n-s
-Theme     : Black + Purple
-Status    : Available for Opportunities
-```
+I like turning ideas into polished, interactive experiences that feel natural to use. Whether it's refining animations, improving layouts or writing cleaner code, I'm always looking for ways to make every project a little better than the last.
 
 ---
 
-## `kanishkaa@github:~$ ls`
+## 🚀 What I'm Focused On
 
-```text
-about.md
-projects/
-skills.json
-github/
-contact.txt
-```
+* ⚛️ Building modern React applications
+* 🎨 Creating clean and responsive user interfaces
+* ✨ Crafting smooth interactions and animations
+* 📚 Continuously improving my frontend development skills
+* 💡 Exploring modern frontend development practices
 
 ---
 
-## `kanishkaa@github:~$ cat about.md`
+## 💜 Tech I Enjoy Working With
 
-```md
-Hi, I'm Kanishkaa.
-
-I enjoy building modern, responsive interfaces that feel
-smooth, intuitive and polished.
-
-Current Goal:
-→ Land my first Frontend Developer role.
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,github,vscode,figma" />
+</p>
 
 ---
 
-## `kanishkaa@github:~/projects$ tree`
+## 🚀 Featured Projects
 
-```text
-.
-├── cloud-storage-system/
-├── ecommerce-app/
-├── ovation/
-└── portfolio/
-```
+### ☁️ Cloud Storage System
 
-### `cat cloud-storage-system/info.md`
+A Google Drive-inspired cloud storage interface built with a focus on a clean and intuitive frontend experience.
 
-```text
-Status      : COMPLETE
+**Frontend:** React • JavaScript • CSS
 
-Google Drive inspired cloud platform.
-
-Stack
-------
-React
-FastAPI
-PostgreSQL
-AWS S3
-```
-
-### `cat ecommerce-app/info.md`
-
-```text
-Status      : COMPLETE
-
-Modern responsive shopping platform.
-
-Stack
-------
-React
-Bootstrap
-JavaScript
-```
-
-### `cat ovation/info.md`
-
-```text
-Status      : LIVE
-
-Premium Event Booking Platform.
-
-Stack
-------
-HTML
-CSS
-JavaScript
-```
-
-### `cat portfolio/info.md`
-
-```text
-Status      : ONLINE
-
-Personal Portfolio
-
-https://kanishkaans.github.io
-```
+🔗 Repository • Live Demo
 
 ---
 
-## `kanishkaa@github:~$ cat skills.json`
+### 🛒 E-Commerce App
 
-```json
-{
-  "frontend": [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "React",
-    "Bootstrap",
-    "Tailwind CSS"
-  ],
-  "backend": [
-    "Python",
-    "Django",
-    "MongoDB"
-  ],
-  "tools": [
-    "Git",
-    "GitHub",
-    "VS Code",
-    "Figma"
-  ]
-}
-```
+A responsive shopping experience designed with modern layouts and an intuitive user interface.
+
+**Frontend:** React • JavaScript • Bootstrap
+
+🔗 Repository • Live Demo
 
 ---
 
-## `kanishkaa@github:~$ git status`
+### 🎟️ OVATION
 
-```text
-On branch main
+A premium event booking platform featuring smooth animations, responsive layouts and a seamless booking experience.
 
-✔ Building Projects
-✔ Improving DSA
-✔ Learning UI Architecture
-✔ Looking for Frontend Opportunities
+**Frontend:** HTML • CSS • JavaScript
 
-nothing to commit, working tree clean
-```
+🔗 Repository • Live Demo
 
 ---
 
-## `kanishkaa@github:~$ github --stats`
+### 🌐 Portfolio
 
-> Replace this block with:
->
-> - GitHub Stats Card
-> - GitHub Streak
-> - Top Languages
-> - Contribution Graph
-> - Pac-Man Animation
+My personal portfolio showcasing projects, skills and my journey as a frontend developer.
+
+**Frontend:** React • JavaScript
+
+🔗 Visit Portfolio
 
 ---
 
-## `kanishkaa@github:~$ connect`
+## 📊 GitHub Analytics
 
-```text
-Portfolio
-https://kanishkaans.github.io
+<p align="center">
 
-GitHub
-https://github.com/KanishkaaNS
+<!-- GitHub Stats -->
 
-LinkedIn
-https://linkedin.com/in/kanishkaa-n-s
+<!-- GitHub Streak -->
 
-Email
-your-email@example.com
-```
+<!-- Top Languages -->
+
+</p>
 
 ---
 
-## `kanishkaa@github:~$ exit`
+## 🌱 Currently Exploring
 
-```text
-Session terminated successfully.
+* Advanced React concepts
+* Frontend performance optimization
+* Modern UI patterns
+* Responsive web design
 
-Thanks for visiting KanishkaaOS.
+---
 
-Connection closed.
-```
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://kanishkaans.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/kanishkaa-n-s">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer"/>
+
+</p>
+
+<!-- GitHub Contribution Graph -->
+
+<!-- Pac-Man Contribution Graph -->
+
+<!-- Visitor Counter -->
