@@ -1,217 +1,223 @@
+# KanishkaaOS v2.0
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Initializing+Developer+Profile...;Loading+Modules...;Welcome+to+KanishkaaOS+v1.0" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Booting+KanishkaaOS...;Initializing+Frontend+Environment...;Welcome+to+KanishkaaOS+v2.0" />
+
+# 🖥️ KanishkaaOS
+
+**Frontend Developer • React • JavaScript**
 
 </div>
 
-```console
-┌──────────────────────────────────────────────────────────────────────┐
-│ KanishkaaOS v1.0                                                     │
-├──────────────────────────────────────────────────────────────────────┤
-│ STATUS    : ONLINE                                                   │
-│ LOCATION  : INDIA                                                    │
-│ ROLE      : FRONTEND DEVELOPER                                       │
-│ EDUCATION : BCA (CGPA 9.4)                                           │
-│ BUILD     : React + JavaScript                                       │
-└──────────────────────────────────────────────────────────────────────┘
+---
+
+```text
+╭────────────────────────────────────────────────────────────────────────────╮
+│ ● ● ●                                         KanishkaaOS Terminal         │
+├────────────────────────────────────────────────────────────────────────────┤
+│ Last login: Today from github.com                                          │
+│                                                                            │
+│ Boot sequence...                                                           │
+│                                                                            │
+│ Loading JavaScript......................... [ OK ]                         │
+│ Loading React.............................. [ OK ]                         │
+│ Loading Portfolio.......................... [ OK ]                         │
+│ Loading Projects........................... [ OK ]                         │
+│                                                                            │
+│ System Ready.                                                              │
+│                                                                            │
+│ kanishkaa@github:~$ █                                                      │
+╰────────────────────────────────────────────────────────────────────────────╯
+```
+
+## `kanishkaa@github:~$ neofetch`
+
+```yaml
+User      : Kanishkaa NS
+Role      : Frontend Developer
+Education : Bachelor of Computer Applications
+CGPA      : 9.4
+Location  : India
+Hostname  : github.com/KanishkaaNS
+Portfolio : https://kanishkaans.github.io
+LinkedIn  : https://linkedin.com/in/kanishkaa-n-s
+Theme     : Black + Purple
+Status    : Available for Opportunities
 ```
 
 ---
 
-```bash
-kanishkaa@github:~$ whoami
-```
+## `kanishkaa@github:~$ ls`
 
-```
-Frontend Developer passionate about building
-clean, modern and responsive web experiences.
-
-Currently looking for opportunities to build
-products people genuinely enjoy using.
-```
-
----
-
-```bash
-kanishkaa@github:~$ ls
-```
-
-```
-📁 projects/
-📁 skills/
-📁 github/
-📁 contact/
+```text
+about.md
+projects/
+skills.json
+github/
+contact.txt
 ```
 
 ---
 
-```bash
-kanishkaa@github:~$ cd projects
-kanishkaa@github:~/projects$ tree
+## `kanishkaa@github:~$ cat about.md`
+
+```md
+Hi, I'm Kanishkaa.
+
+I enjoy building modern, responsive interfaces that feel
+smooth, intuitive and polished.
+
+Current Goal:
+→ Land my first Frontend Developer role.
 ```
 
-```
+---
+
+## `kanishkaa@github:~/projects$ tree`
+
+```text
 .
 ├── cloud-storage-system/
-│   ├── React
-│   ├── FastAPI
-│   ├── PostgreSQL
-│   └── AWS S3
-│
 ├── ecommerce-app/
-│   ├── React
-│   ├── Bootstrap
-│   └── JavaScript
-│
 ├── ovation/
-│   ├── HTML
-│   ├── CSS
-│   └── JavaScript
-│
 └── portfolio/
-    ├── React
-    └── Responsive Design
 ```
 
----
+### `cat cloud-storage-system/info.md`
 
-```bash
-kanishkaa@github:~/projects$ cat cloud-storage-system/README.md
-```
+```text
+Status      : COMPLETE
 
-```
 Google Drive inspired cloud platform.
 
-✔ Authentication
-✔ File Uploads
-✔ Modern UI
-✔ Internship Project
+Stack
+------
+React
+FastAPI
+PostgreSQL
+AWS S3
 ```
 
----
+### `cat ecommerce-app/info.md`
 
-```bash
-kanishkaa@github:~/projects$ cat ecommerce-app/README.md
-```
+```text
+Status      : COMPLETE
 
-```
-Modern shopping experience with
-responsive layouts and clean UI.
-```
+Modern responsive shopping platform.
 
----
-
-```bash
-kanishkaa@github:~/projects$ cat ovation/README.md
-```
-
-```
-Premium event booking platform
-inspired by BookMyShow.
-
-Built with:
-HTML
-CSS
-JavaScript
-```
-
----
-
-```bash
-kanishkaa@github:~$ skills --list
-```
-
-```
-Frontend
-─────────
-
-HTML
-CSS
-JavaScript
+Stack
+------
 React
 Bootstrap
-Tailwind
+JavaScript
+```
 
-Backend
-────────
+### `cat ovation/info.md`
 
-Python
-Django
+```text
+Status      : LIVE
 
-Tools
-─────
+Premium Event Booking Platform.
 
-Git
-GitHub
-VS Code
-Figma
+Stack
+------
+HTML
+CSS
+JavaScript
+```
+
+### `cat portfolio/info.md`
+
+```text
+Status      : ONLINE
+
+Personal Portfolio
+
+https://kanishkaans.github.io
 ```
 
 ---
 
-```bash
-kanishkaa@github:~$ git status
+## `kanishkaa@github:~$ cat skills.json`
+
+```json
+{
+  "frontend": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Bootstrap",
+    "Tailwind CSS"
+  ],
+  "backend": [
+    "Python",
+    "Django",
+    "MongoDB"
+  ],
+  "tools": [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Figma"
+  ]
+}
 ```
 
-```
+---
+
+## `kanishkaa@github:~$ git status`
+
+```text
 On branch main
 
 ✔ Building Projects
-
 ✔ Improving DSA
-
-✔ Exploring Better UI Architecture
-
-✔ Preparing for Frontend Roles
+✔ Learning UI Architecture
+✔ Looking for Frontend Opportunities
 
 nothing to commit, working tree clean
 ```
 
 ---
 
-```bash
-kanishkaa@github:~$ github stats
-```
+## `kanishkaa@github:~$ github --stats`
 
-<p align="center">
-
-GitHub Stats
-
-Top Languages
-
-Contribution Graph
-
-Pac-Man
-
-</p>
+> Replace this block with:
+>
+> - GitHub Stats Card
+> - GitHub Streak
+> - Top Languages
+> - Contribution Graph
+> - Pac-Man Animation
 
 ---
 
-```bash
-kanishkaa@github:~$ connect
-```
+## `kanishkaa@github:~$ connect`
 
-```
+```text
 Portfolio
 https://kanishkaans.github.io
 
+GitHub
+https://github.com/KanishkaaNS
+
 LinkedIn
-www.linkedin.com/in/kanishkaa-n-s
+https://linkedin.com/in/kanishkaa-n-s
 
 Email
-YOUR_EMAIL@gmail.com
+your-email@example.com
 ```
 
 ---
 
-```bash
-kanishkaa@github:~$ exit
-```
+## `kanishkaa@github:~$ exit`
 
-```
-Session closed.
+```text
+Session terminated successfully.
 
-Thanks for stopping by.
+Thanks for visiting KanishkaaOS.
 
-Have a great day :)
+Connection closed.
 ```
