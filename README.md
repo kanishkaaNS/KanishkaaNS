@@ -1,165 +1,177 @@
 <div align="center">
 
-# KANISHKAA NS
-
-### Frontend Developer
-
-Building modern, responsive & user-friendly web experiences.
-
-<p>
-  <a href="https://kanishkaans.github.io">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/kanishkaa-n-s">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=React+Developer;JavaScript+Enthusiast;Building+Clean+Interfaces;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Initializing+Developer+Profile...;Loading+Modules...;Welcome+to+KanishkaaOS+v1.0" />
 
 </div>
 
----
-
-# /about
-
-```yaml
-name: Kanishkaa NS
-
-role: Frontend Developer
-
-education: BCA (CGPA: 9.4)
-
-location: India
-
-status: Looking for Frontend Opportunities
-
-focus:
-  - React
-  - JavaScript
-  - Responsive UI
-  - Clean User Experience
+```console
+┌──────────────────────────────────────────────────────────────────────┐
+│ KanishkaaOS v1.0                                                     │
+├──────────────────────────────────────────────────────────────────────┤
+│ STATUS    : ONLINE                                                   │
+│ LOCATION  : INDIA                                                    │
+│ ROLE      : FRONTEND DEVELOPER                                       │
+│ EDUCATION : BCA (CGPA 9.4)                                           │
+│ BUILD     : React + JavaScript                                       │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
-> I enjoy turning ideas into polished interfaces that are fast, responsive and enjoyable to use.
->
-> My goal is simple:
->
-> Build products that people love using.
+---
+
+```bash
+kanishkaa@github:~$ whoami
+```
+
+```
+Frontend Developer passionate about building
+clean, modern and responsive web experiences.
+
+Currently looking for opportunities to build
+products people genuinely enjoy using.
+```
 
 ---
 
-# /featured-projects
+```bash
+kanishkaa@github:~$ ls
+```
 
-<table>
-<tr>
+```
+📁 projects/
+📁 skills/
+📁 github/
+📁 contact/
+```
 
-<td width="50%">
+---
 
-## ☁ Cloud Storage System
+```bash
+kanishkaa@github:~$ cd projects
+kanishkaa@github:~/projects$ tree
+```
 
-Google Drive inspired cloud storage platform developed during my internship.
+```
+.
+├── cloud-storage-system/
+│   ├── React
+│   ├── FastAPI
+│   ├── PostgreSQL
+│   └── AWS S3
+│
+├── ecommerce-app/
+│   ├── React
+│   ├── Bootstrap
+│   └── JavaScript
+│
+├── ovation/
+│   ├── HTML
+│   ├── CSS
+│   └── JavaScript
+│
+└── portfolio/
+    ├── React
+    └── Responsive Design
+```
 
-**Tech**
+---
 
-React • FastAPI • PostgreSQL • AWS S3
+```bash
+kanishkaa@github:~/projects$ cat cloud-storage-system/README.md
+```
 
-🔗 Repository
+```
+Google Drive inspired cloud platform.
 
-</td>
+✔ Authentication
+✔ File Uploads
+✔ Modern UI
+✔ Internship Project
+```
 
-<td width="50%">
+---
 
-## 🛒 E-Commerce App
+```bash
+kanishkaa@github:~/projects$ cat ecommerce-app/README.md
+```
 
-Modern shopping experience with responsive layouts and intuitive UI.
+```
+Modern shopping experience with
+responsive layouts and clean UI.
+```
 
-**Tech**
+---
 
-React • JavaScript • Bootstrap
+```bash
+kanishkaa@github:~/projects$ cat ovation/README.md
+```
 
-🔗 Live Demo
+```
+Premium event booking platform
+inspired by BookMyShow.
 
-🔗 Repository
+Built with:
+HTML
+CSS
+JavaScript
+```
 
-</td>
+---
 
-</tr>
+```bash
+kanishkaa@github:~$ skills --list
+```
 
-<tr>
+```
+Frontend
+─────────
 
-<td width="50%">
-
-## 🎟 OVATION
-
-Premium event booking platform featuring smooth animations and modern UI.
-
-**Tech**
-
-HTML • CSS • JavaScript
-
-🔗 Live Demo
-
-🔗 Repository
-
-</td>
-
-<td width="50%">
-
-## 🌐 Portfolio
-
-My personal portfolio showcasing projects, skills and experience.
-
-**Tech**
-
+HTML
+CSS
+JavaScript
 React
+Bootstrap
+Tailwind
 
-🔗 Visit Website
+Backend
+────────
 
-</td>
+Python
+Django
 
-</tr>
-</table>
+Tools
+─────
 
----
-
-# /tech-stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
----
-
-# /currently
-
-```text
-Building
-──────────────
-
-✓ Personal Projects
-
-✓ Improving DSA
-
-✓ Learning Better UI Patterns
-
-✓ Looking for Frontend Opportunities
+Git
+GitHub
+VS Code
+Figma
 ```
 
 ---
 
-# /github
+```bash
+kanishkaa@github:~$ git status
+```
+
+```
+On branch main
+
+✔ Building Projects
+
+✔ Improving DSA
+
+✔ Exploring Better UI Architecture
+
+✔ Preparing for Frontend Roles
+
+nothing to commit, working tree clean
+```
+
+---
+
+```bash
+kanishkaa@github:~$ github stats
+```
 
 <p align="center">
 
@@ -169,40 +181,37 @@ Top Languages
 
 Contribution Graph
 
-Streak Stats
+Pac-Man
 
 </p>
 
 ---
 
-# /visitor-log
+```bash
+kanishkaa@github:~$ connect
+```
 
-```text
-Visitor connected...
+```
+Portfolio
+https://kanishkaans.github.io
 
-Loading profile...
+LinkedIn
+www.linkedin.com/in/kanishkaa-n-s
 
-Projects ............ OK
-
-Tech Stack .......... OK
-
-GitHub Stats ........ OK
-
-Contact ............. OK
-
-System Status ....... ONLINE
-
-Thank you for visiting.
+Email
+YOUR_EMAIL@gmail.com
 ```
 
 ---
 
-<div align="center">
+```bash
+kanishkaa@github:~$ exit
+```
 
-### Let's Connect
+```
+Session closed.
 
-<a href="https://kanishkaans.github.io">Portfolio</a> •
-<a href="https://www.linkedin.com/in/kanishkaa-n-s">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
+Thanks for stopping by.
 
-</div>
+Have a great day :)
+```
