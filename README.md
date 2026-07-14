@@ -1,87 +1,141 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=A020F0&center=true&vCenter=true&width=800&lines=Hello+there%2C+I'm+Kanishkaa+N+S;Aspiring+Frontend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1200&color=A020F0&center=true&vCenter=true&width=800&lines=Hello+there%2C+I'm+Kanishkaa+N+S;Frontend+Developer;Building+clean+and+responsive+web+experiences" alt="Typing SVG" />
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishkaaNS&label=Profile%20views&color=A020F0&style=flat" alt="kanishkaaNS" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kanishkaaNS&label=Profile%20views&color=A020F0&style=flat" alt="kanishkaaNS" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanishkaaNS&theme=dracula&column=7&margin-w=15&margin-h=15" alt="kanishkaaNS" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kanishkaaNS&theme=dracula&column=7&margin-w=15&margin-h=15" alt="kanishkaaNS" />
+  </a>
+</p>
 
-### About Me
+---
 
-<!-- TODO: personalize this line — e.g. your year of study/grad year, college, and what pulled you toward frontend dev -->
-I'm a frontend developer who enjoys turning ideas into clean, responsive interfaces — currently deepening my React and problem-solving skills while building real-world projects.
+## About Me
+
+I enjoy building clean, responsive web applications with a focus on creating intuitive user experiences. I'm always exploring new technologies, refining my frontend skills, and turning ideas into projects that challenge me.
 
 → Currently expanding my problem-solving skills by practicing DSA on LeetCode
 
-→ Looking to collaborate on frontend/React projects
+→ Open to collaborating on frontend and React projects
 
-→ Looking for Frontend Developer opportunities
+→ Always learning new technologies and building projects
 
-→ How to reach me: **kanishkaans07@gmail.com**
+→ Reach me at **kanishkaans07@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/kanishkaa-n-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishkaa-n-s" height="30" width="40" /></a>
-<a href="mailto:kanishkaans07@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/30/A020F0/new-post.png" alt="email" height="30" width="30" /></a>
-<a href="https://kanishkaans.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/kanishkaaNS/kanishkaaNS/main/assets/logo-k.png" alt="portfolio" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/kanishkaa-n-s" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+
+  <a href="mailto:kanishkaans07@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/ios-filled/30/A020F0/new-post.png" alt="Email" height="30" width="30"/>
+  </a>
+
+  <a href="https://kanishkaans.github.io" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/kanishkaaNS/kanishkaaNS/main/assets/logo-k.png" alt="Portfolio" height="30" width="30"/>
+  </a>
 </p>
 
 ---
 
-### Tech Stack
+## Tech Stack
 
-<h4 align="left">Languages:</h4>
+#### Languages
+
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
-<h4 align="left">Libraries and Frameworks:</h4>
+#### Libraries & Frameworks
+
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/> </a>
+  <a href="https://react.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://vitejs.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40" height="40"/></a>
 </p>
 
-<h4 align="left">Tools & Platforms:</h4>
+#### Tools & Platforms
+
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+  <a href="https://git-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+  <a href="https://github.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a>
+  <a href="https://www.figma.com"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+  <a href="https://www.npmjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
 ---
 
-### Featured Projects
+## Featured Projects
 
-**[Cloud Storage System](https://github.com/kanishkaaNS/Cloud-Storage-System)**
+### ☁️ Cloud Storage System
 
-Developed the React (Vite, Tailwind CSS) frontend for a cloud storage application, implementing responsive file upload, listing, and deletion interfaces integrated with REST APIs for secure file management. Built modular components — file upload interfaces, responsive file grids, and dialogs — using React Hooks to manage upload progress, UI state, and error handling, with clear user feedback across a mobile-first interface.
+A modern cloud storage application inspired by Google Drive. It provides a clean and responsive interface for uploading, organizing, and managing files while integrating with REST APIs for a seamless user experience.
 
-`React` `Vite` `Tailwind CSS` `AWS S3` `REST APIs`
+**Tech:** `React` `Vite` `Tailwind CSS` `AWS S3` `REST APIs`
 
-→ [Live Demo](https://cloudstoragesystem-cjqn.onrender.com)
+→ **Repository:** https://github.com/kanishkaaNS/Cloud-Storage-System
 
-<br>
-
-**[E-Commerce Website — Coorg Spices Emporium](https://github.com/kanishkaaNS/Coorg-Spices-Emporium)**
-
-Developed the frontend shopping experience for an e-commerce application using HTML, CSS, and Vanilla JavaScript, implementing asynchronous cart updates against internal JSON endpoints via the Fetch API. Built responsive layouts and interactive UI components that delivered a smooth, reload-free shopping experience across the product catalog.
-
-`HTML5` `CSS3` `JavaScript (ES6+)` `Fetch API`
-
-→ [Live Demo](https://coorgspicesemporium.onrender.com)
+→ **Live Demo:** https://cloudstoragesystem-cjqn.onrender.com
 
 <br>
 
-**[Ovation Tickets](https://github.com/kanishkaaNS/OVATION-Tickets-to-Everything)**
+### 🛍️ Coorg Spices Emporium
 
-Developed the frontend of a responsive event ticket booking platform using HTML5, CSS3, and Vanilla JavaScript, implementing city-based event discovery, theatre/showtime selection, dynamic seat booking, and client-side form validation. Implemented client-side authentication and session persistence using the Local Storage API, building reusable UI components with CSS Grid and Flexbox for a responsive, maintainable booking experience.
+A responsive e-commerce website built to deliver a smooth shopping experience. Features dynamic product browsing, interactive cart functionality, and asynchronous updates using the Fetch API.
 
-`HTML5` `CSS3` `JavaScript (ES6+)` `Local Storage API`
+**Tech:** `HTML5` `CSS3` `JavaScript (ES6+)` `Fetch API`
 
-→ [Live Demo](https://ovation-tickets.netlify.app)
+→ **Repository:** https://github.com/kanishkaaNS/Coorg-Spices-Emporium
 
-<p align="center"><i>Thanks for stopping by! Star this profile if you found something useful.</i></p>
+→ **Live Demo:** https://coorgspicesemporium.onrender.com
+
+<br>
+
+### 🎟️ OVATION Tickets
+
+A modern event ticket booking platform that lets users discover events, choose theatres and showtimes, book seats, and complete the booking flow through a fully client-side experience with persistent session management.
+
+**Tech:** `HTML5` `CSS3` `JavaScript (ES6+)` `Local Storage API`
+
+→ **Repository:** https://github.com/kanishkaaNS/OVATION-Tickets-to-Everything
+
+→ **Live Demo:** https://ovation-tickets.netlify.app
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kanishkaaNS&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkaaNS&layout=compact&theme=midnight-purple&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kanishkaaNS&theme=midnight-purple&hide_border=true" />
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkaaNS&theme=github-dark&hide_border=true&color=A020F0&line=A020F0&point=FFFFFF" />
+</p>
+
+---
+
+> *Always building. Always learning.*
+
+<p align="center">
+  <i>Thanks for stopping by! Feel free to explore my repositories, and if you find something interesting, don't hesitate to leave a ⭐.</i>
+</p>
