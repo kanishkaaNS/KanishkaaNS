@@ -1,88 +1,110 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Hello+there!;Frontend+Developer;Building+Modern+Web+Experiences;React+%7C+JavaScript+%7C+UI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Hello+there%2C+I'm+Kanishkaa+N+S;Aspiring+Frontend+Developer" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Turning ideas into clean, responsive and interactive web experiences.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishkaaNS&label=Profile%20views&color=0e75b6&style=flat" alt="kanishkaaNS" /> </p>
 
-<p align="center">
-  <a href="https://kanishkaans.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kanishkaa-n-s">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/KanishkaaNS">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanishkaaNS&theme=flat&column=7&margin-w=15&margin-h=15" alt="kanishkaaNS" /></a> </p>
+
+- 🌱 I'm currently expanding my problem-solving skills by practicing DSA on LeetCode
+
+- 👯 I'm looking to collaborate on frontend/React projects
+
+- 🤝 Looking for Frontend Developer opportunities
+
+- 📫 How to reach me **kanishkaans07@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/kanishkaa-n-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishkaa-n-s" height="30" width="40" /></a>
+<a href="https://kanishkaans.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="portfolio" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages:</h3>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Libraries and Frameworks:</h3>
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Tools & Platforms:</h3>
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kanishkaaNS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkaaNS&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<h3 align="left">Streak Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkaaNS&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 🚀 Featured Projects
 
-- ⚛️ Frontend Developer passionate about React and JavaScript
-- 🎨 I enjoy building clean, responsive and user-friendly interfaces
-- 🚀 Always building, learning and improving through projects
-- 💡 Interested in modern frontend development and UI/UX
+<table>
+<tr>
+<td width="50%">
 
----
+**☁️ [Cloud Storage System](https://github.com/kanishkaaNS/Cloud-Storage-System)**
 
-## 🛠️ Tech Stack
+Developed the React (Vite, Tailwind CSS) frontend for a cloud storage application, implementing responsive file upload, listing, and deletion interfaces integrated with REST APIs for secure file management.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,github,vscode,figma" />
-</p>
+Built modular components — file upload interfaces, responsive file grids, and dialogs — using React Hooks to manage upload progress, UI state, and error handling, with clear user feedback across a mobile-first interface.
 
----
+`React` `Vite` `Tailwind CSS` `AWS S3` `REST APIs`
 
-## 🚀 Featured Projects
+🔗 [Live Demo](https://cloudstoragesystem-cjqn.onrender.com)
 
-- ☁️ **Cloud Storage System** — Google Drive-inspired cloud storage interface.
-- 🛒 **E-Commerce App** — Modern shopping experience with responsive UI.
-- 🎟️ **OVATION** — Event booking platform with a seamless booking flow.
-- 🌐 **Portfolio** — A collection of my work and frontend projects.
+</td>
+<td width="50%">
 
----
+**🛍️ [E-Commerce Website — Coorg Spices Emporium](https://github.com/kanishkaaNS/Coorg-Spices-Emporium)**
 
-## 🌱 Currently Exploring
+Developed the frontend shopping experience for an e-commerce application using HTML, CSS, and Vanilla JavaScript, implementing asynchronous cart updates against internal JSON endpoints via the Fetch API.
 
-- Advanced React
-- Frontend Performance
-- UI Animations
-- Responsive Design
+Built responsive layouts and interactive UI components that delivered a smooth, reload-free shopping experience across the product catalog.
 
----
+`HTML5` `CSS3` `JavaScript (ES6+)` `Fetch API`
 
-## 📊 GitHub Stats
+🔗 [Live Demo](https://coorgspicesemporium.onrender.com)
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <!-- GitHub Streak -->
-  <!-- Top Languages -->
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
 
----
+**🎟️ [Ovation Tickets](https://github.com/kanishkaaNS/OVATION-Tickets-to-Everything)**
 
-## 🤝 Connect With Me
+Developed the frontend of a responsive event ticket booking platform using HTML5, CSS3, and Vanilla JavaScript, implementing city-based event discovery, theatre/showtime selection, dynamic seat booking, and client-side form validation.
 
-<p align="center">
-  <a href="https://kanishkaans.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kanishkaa-n-s">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+Implemented client-side authentication and session persistence using the Local Storage API, building reusable UI components with CSS Grid and Flexbox for a responsive, maintainable booking experience.
 
----
+`HTML5` `CSS3` `JavaScript (ES6+)` `Local Storage API`
 
-<p align="center">
-  <i>Thanks for stopping by! ⭐</i>
-</p>
+🔗 [Live Demo](https://ovation-tickets.netlify.app)
 
-<!-- Contribution Graph -->
+</td>
+<td width="50%">
 
-<!-- Pac-Man Animation -->
+</td>
+</tr>
+</table>
+
+<p align="center"><i>Thanks for stopping by! ⭐ this profile if you found something useful.</i></p>
